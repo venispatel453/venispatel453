@@ -1,7 +1,3 @@
-Here's a creative `README.md` file with a coding theme for your GitHub profile:
-
----
-
 # 💻 Welcome to My GitHub Profile! 💻
 
 
